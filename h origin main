@@ -1,0 +1,24 @@
+[33mcommit 587deb9c873ccfb2252fe5f7fe953f3a105d56f8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/rps-ui[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mrps-ui[m[33m)[m
+Author: Ash <ashrodders@gmail.com>
+Date:   Thu Aug 29 02:56:45 2024 +0100
+
+    finished rock-paper-scissors-project
+
+[33mcommit 26bef72ada55427fd1c6ea6d7f041e82897c021e[m
+Merge: 429dde3 de846ae
+Author: Ash <ashrodders@gmail.com>
+Date:   Tue Aug 27 20:00:35 2024 +0100
+
+    im trying to link github to my project = Merge branch 'main' of github.com:Ashrodders/rock-paper-scissors-project
+
+[33mcommit 429dde3b3399501da8d46de72ee961fed65c6da5[m
+Author: Ash <ashrodders@gmail.com>
+Date:   Tue Aug 27 19:58:50 2024 +0100
+
+    started rock-paper-scissors odin project
+
+[33mcommit de846ae4516c7660ffcc29b37f6b1ad7c389c396[m
+Author: Ashrodders <154356821+Ashrodders@users.noreply.github.com>
+Date:   Tue Aug 27 13:49:02 2024 +0100
+
+    Initial commit
